@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Buy vegetables",
+      "day": "March 1st",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Buy fuel",
+      "day": "March 3rd",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Close chickens",
+      "day": "March 4th",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Make a baby",
+      "day": "March 5th",
+      "reminder": true
+    }
+  ]
+}
